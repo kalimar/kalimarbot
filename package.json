@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/kalimar/kalimarbot/issues"
   },
-  "homepage": "https://github.com/kalimar/kalimarbot"
+  "homepage": "https://github.com/kalimar/kalimarbot",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.3",
+    "node-restclient": "0.0.1",
+    "twit": "^2.2.4"
+  }
 }
